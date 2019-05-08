@@ -1,4 +1,5 @@
 # Variable-Tracking-and-Schema-Capturing-to-make-Biomedical-Research-Data-FAIR-
+[Click Me!](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
 
 ## Background
 ### All about the data
@@ -17,13 +18,13 @@ We are working with Patient Reported Data from the National Eye Institute who ha
 ## Goals
 ### Target: 
 1. Extract schema from the data sets
-* Capture inventories of the files in the directories
+2. Capture inventories of the files in the directories
 * Bagit and Pandas as tools
 * How many variables and missing values are in each file
-2. Stretch: 
-* Pulling data from CRFs and PDFs as a structured data format 
-* Associate the variables with the descriptions 
-* Validate the variables against the data dictionary and report the record that does not find a match
+### Stretch: 
+1. Pulling data from CRFs and PDFs as a structured data format 
+2. Associate the variables with the descriptions 
+3. Validate the variables against the data dictionary and report the record that does not find a match
 
 ## WorkFlow: 
 ### Input Data: 
