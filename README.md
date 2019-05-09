@@ -5,10 +5,15 @@
 
 ## Team Members
 Lusha Cao
+
 Kerry Goetz (kerry.goetz@nih.gov, kgoetz2@masonlive.gmu.edu)
+
 Dina Mikdadi
+
 Divya Palaniswamy
+
 Yajing Song
+
 Violet Zhang
 
 ## Background
