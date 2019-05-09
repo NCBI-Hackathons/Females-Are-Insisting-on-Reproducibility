@@ -3,6 +3,14 @@
 
 [Click Me for the Lightning talk slides!](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
 
+## Team Members
+Lusha Cao
+Kerry Goetz (kerry.goetz@nih.gov, kgoetz2@masonlive.gmu.edu)
+Dina Mikdadi
+Divya Palaniswamy
+Yajing Song
+Violet Zhang
+
 ## Background
 ### All about the data
 We are working with Patient Reported Data from the National Eye Institute who have gone through or about to go through LASIK Surgery. There three data categories: Demographic, Pre-Operations, Post-Operations. The Data is in PDF and unclean and non-standard Excel Format.
