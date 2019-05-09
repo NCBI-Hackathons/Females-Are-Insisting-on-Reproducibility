@@ -1,7 +1,7 @@
 # Females Are Insisting on Reproducibility!
 [Click Me!](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
 
-#[Click Me for the Lightning talk slides!](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
+[Click Me for the Lightning talk slides!](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
 
 ## Background
 ### All about the data
