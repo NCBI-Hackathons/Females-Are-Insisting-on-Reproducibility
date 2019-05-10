@@ -80,11 +80,11 @@ other attached packages:
 ![Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
 
 ### Shoe #1 - Sneakers - CRF
-  -Reading Case Report Form (CRF) PDF to python Data Frame for Text Mining
-  -Put into Data Frame to do cool stuff
-    1. headers in data - variable names to questions
-    2. Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP)
-    3. other fun stuff like text analysis, mesh terms
+  * Reading Case Report Form (CRF) PDF to python Data Frame for Text Mining
+  * Put into Data Frame to do cool stuff
+  * headers in data - variable names to questions
+  * Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP)
+  * Other fun stuff like text analysis, mesh terms
     
 [Sneakers notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Sneakers.ipynb)
     
