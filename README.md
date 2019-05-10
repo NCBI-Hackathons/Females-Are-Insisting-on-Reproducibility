@@ -98,7 +98,7 @@ loaded via a namespace (and not attached):
 [Shoe #1 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/CRFPDF2PyDF.ipynb)
     
 ### Shoe #2 - Variable Cleanup
-[Shoe 2 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
+[Work Shoes](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
 ![Example of cleanup based on the variable](cleanup.png)
 ![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
 
