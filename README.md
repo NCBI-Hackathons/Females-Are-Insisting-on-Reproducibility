@@ -99,7 +99,7 @@ loaded via a namespace (and not attached):
 [Sneakers notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Sneakers.ipynb)
     
 ### Shoe #2 - Variable Cleanup
-[Shoe 2 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
+[Work Shoes](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
 
 ### Shoe #3 - Generate Stats Charts
 
