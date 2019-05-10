@@ -95,12 +95,16 @@ loaded via a namespace (and not attached):
     1. headers in data - variable names to questions
     2. other fun stuff like text analysis, mesh terms
     
+[Shoe #1 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/CRFPDF2PyDF.ipynb)
+    
 ### Shoe #2 - Variable Cleanup
-[Shoe 2 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
+[Work Shoes](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
 ![Example of cleanup based on the variable](cleanup.png)
 ![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
 
 ### Shoe #3 - Generate Stats Charts
+-- Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP)
+[Shoe #3 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Automated%20Keyword%20Extraction%20from%20CRF%20using%20NLP.ipynb)
   
 ###
 
