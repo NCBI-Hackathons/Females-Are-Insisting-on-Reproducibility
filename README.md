@@ -2,7 +2,7 @@
 
 
 
-## Team Members
+## Contributors
 Lusha Cao
 
 Kerry Goetz (kerry.goetz@nih.gov, kgoetz2@masonlive.gmu.edu)
@@ -20,17 +20,17 @@ Violet Zhang
 Biomedical Research Data is notoriously challenging when it comes to FAIR (Findable, Accessible, Interoperable and Re-usable) principles. Often, in order to understand the data set from a clinical research study, one needs to understand the data dictionary and associated code list. This means that someone interested in the data needs to spend a lot of time to understand the relationship between many files of several types. Additionally, the case report forms (CRF) are often contained within pdf type files and sometimes the codebooks are separate files. In some cases, the crf files also contain handwritten annotations. The goal of this work is to create an automated method to merging data from each source to a single object to make biomedical research data FAIR and to provide visualizations of summary data from the source. 
 
 ### All about the data
-We are working with Patient Reported Data from the National Eye Institute who have gone through or about to go through LASIK Surgery. There three data categories: Demographic, Pre-Operations, Post-Operations. The Data is in PDF and unclean and non-standard Excel Format.
+We are working with survey data from the Patient Reported Outcomes with LASIK (PROWL). This was a joint project for DOD/FDA/NIH. More information can be found at [https://www.fda.gov/medical-devices/lasik/lasik-quality-life-collaboration-project] and [https://prowl.nei.nih.gov/]. We looked three data categories: Demographic, Pre-Operation survey responses and Post-Operation surveys.
 
-### More details on the data:
-* CRFs: Data Dictionary + PDFs
-* 1100 people
-* Structure: 
-* Demographic 8 DE
-* Pre-OP 142 DE
-* Post -OP 108 DE
-* 6 data files
-* 42 PDFs
+We started with a annotated case report form (CRF) and seperate code book in pdf format. Cooresponding Data Dictionary and survey response data in csv. 
+
+### Data Information:
+* Cohort = 1100 people
+* Demographic = 8 Data Elements (DE)
+* Pre-OP = 142 DE
+* Post-OP = 108 DE
+* 6 data files but we used one for proof of concept (see note about data access)
+* 42 PDFs (21 pairs of annotated CRF and code book)
 
 ![alt text](/workflow.png)
 
