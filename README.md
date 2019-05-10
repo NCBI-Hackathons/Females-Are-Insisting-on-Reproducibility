@@ -100,8 +100,6 @@ loaded via a namespace (and not attached):
     
 ### Shoe #2 - Variable Cleanup
 [Shoe 2 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
-![Example of cleanup based on the variable](cleanup.png)
-![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
 
 ### Shoe #3 - Generate Stats Charts
 
