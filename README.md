@@ -3,7 +3,7 @@
 
 
 ## Contributors
-Lusha Cao
+Lusha Cao (lcao10@jhmi.edu)
 
 Kerry Goetz (kerry.goetz@nih.gov, kgoetz2@masonlive.gmu.edu)
 
