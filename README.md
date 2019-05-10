@@ -57,7 +57,13 @@ Data is available on controlled access basis. Required to sign a user agreement 
 [Final Presentation]
 
 ### Input Data: 
-Raw Non-standard Data + PDFs
+![CRF](/CRF.png)
+
+![Code list](/codelist.png)
+
+![Data Dictionary](/data dictionary.png)
+
+![Data](/Data set.png)
 
 ### Automatically Transform To …. (Magic Happening!)
 
