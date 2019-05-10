@@ -13,7 +13,7 @@ Divya Palaniswamy
 
 Yajing Song
 
-Violet Zhang
+Violet Zhang (violet.v.zhang@gsk.com)
 
 ## Background
 
@@ -58,7 +58,25 @@ Data is available on controlled access basis. Required to sign a user agreement 
 
 ### Dependencies:
 * R
-* R Studio
+R version 3.5.1 (2018-07-02)
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Running under: macOS  10.14.2
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] bindrcpp_0.2.2 dplyr_0.7.6    ggplot2_3.0.0 
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.18     bindr_0.1.1      magrittr_1.5     tidyselect_0.2.4
+ [5] munsell_0.5.0    uuid_0.1-2       colorspace_1.3-2 R6_2.2.2        
+ [9] rlang_0.2.1      stringr_1.3.1    plyr_1.8.4       tools_3.5.1     
+[13] grid_3.5.1       gtable_0.2.0     withr_2.1.2      htmltools_0.3.6 
+[17] lazyeval_0.2.1   assertthat_0.2.0 digest_0.6.15    tibble_1.4.2    
+[21] crayon_1.3.4     IRdisplay_0.5.0  purrr_0.2.5      repr_0.15.0     
+[25] base64enc_0.1-3  IRkernel_0.8.12  evaluate_0.11    glue_1.3.0      
+[29] labeling_0.3     pbdZMQ_0.3-3     stringi_1.2.4    compiler_3.5.1  
+[33] pillar_1.3.0     scales_0.5.0     jsonlite_1.5     pkgconfig_2.0.1 
 * Python
 * Jupiter Notebook
 
