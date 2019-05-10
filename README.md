@@ -65,7 +65,19 @@ Data is available on controlled access basis. Required to sign a user agreement 
 
 ![Data](/Data set.png)
 
-### Automatically Transform To …. (Magic Happening!)
+### Shoe #1 - CRF
+  -Read CRF
+  -Put into Data Frame to do cool stuff
+  Like:
+    Generate Word Count
+    MESH
+    1. headers in data - variable names to questions
+    2. fun stuff like text analysis, mesh terms
+    
+### Shoe #2 - Variable Cleanup
+### Shoe #3 - Generate Stats Charts
+  
+###
 
 ### Output
 
