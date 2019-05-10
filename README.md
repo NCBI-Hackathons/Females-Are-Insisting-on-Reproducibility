@@ -72,9 +72,9 @@ other attached packages:
 ### Input Data: 
 ![Example from CRF](/CRF.PNG)
 
-![Example from Code list](/codelist.PNG)
+![Example from Code list](/code/ list.PNG)
 
-![Example from Data Dictionary](/data_dictionary.PNG)
+![Example from Data Dictionary](/data/ dictionary.PNG)
 
 ![Example from Data](/Data_set.PNG)
 
