@@ -99,8 +99,6 @@ loaded via a namespace (and not attached):
     
 ### Shoe #2 - Variable Cleanup
 [Work Shoes](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
-![Example of cleanup based on the variable](cleanup.png)
-![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
 
 ### Shoe #3 - Generate Stats Charts
 -- Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP)
