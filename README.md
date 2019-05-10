@@ -70,10 +70,13 @@ other attached packages:
 * Jupiter Notebook
 
 ### Input Data: 
+### Example from CRF
 ![Example from CRF](/CRF.PNG)
 
+### Example from Data Dictionary
 ![Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
 
+### Example from Data
 ![Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
 
 ### Shoe #1 - Sneakers - CRF
