@@ -1,7 +1,6 @@
-# Females Are Insisting on Reproducibility!
-[Click Me!](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
+![alt text](/logo.png)
 
-[Click Me for the Lightning talk slides!](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
+
 
 ## Team Members
 Lusha Cao
@@ -17,6 +16,9 @@ Yajing Song
 Violet Zhang
 
 ## Background
+
+Biomedical Research Data is notoriously challenging when it comes to FAIR (Findable, Accessible, Interoperable and Re-usable) principles. Often, in order to understand the data set from a clinical research study, one needs to understand the data dictionary and associated code list. This means that someone interested in the data needs to spend a lot of time to understand the relationship between many files of several types. Additionally, the case report forms (CRF) are often contained within pdf type files and sometimes the codebooks are separate files. In some cases, the crf files also contain handwritten annotations. The goal of this work is to create an automated method to merging data from each source to a single object to make biomedical research data FAIR and to provide visualizations of summary data from the source. 
+
 ### All about the data
 We are working with Patient Reported Data from the National Eye Institute who have gone through or about to go through LASIK Surgery. There three data categories: Demographic, Pre-Operations, Post-Operations. The Data is in PDF and unclean and non-standard Excel Format.
 
@@ -30,7 +32,15 @@ We are working with Patient Reported Data from the National Eye Institute who ha
 * 6 data files
 * 42 PDFs
 
+![alt text](/workflow.png)
+
+# Presentations
+[Click Me!](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
+
+[Click Me for the Lightning talk slides!](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
+
 ## Goals
+
 ### Target: 
 1. Extract schema from the data sets
 2. Capture inventories of the files in the directories
