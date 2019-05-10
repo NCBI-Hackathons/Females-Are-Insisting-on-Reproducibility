@@ -72,11 +72,11 @@ other attached packages:
 ### Input Data: 
 ![Example from CRF](/CRF.PNG)
 
-![Example from Code list](![Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
+![Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
 
 ![Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
 
-### Shoe #1 - CRF
+### Shoe #1 - Sneakers - CRF
   -Reading Case Report Form (CRF) PDF to python Data Frame for Text Mining
   -Put into Data Frame to do cool stuff
     1. headers in data - variable names to questions
