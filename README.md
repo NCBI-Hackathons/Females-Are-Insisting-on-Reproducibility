@@ -56,23 +56,26 @@ Data is available on controlled access basis. Required to sign a user agreement 
 
 [Final Presentation]
 
+### Dependencies:
+* R
+* R Studio
+* Python
+* Jupiter Notebook
+
 ### Input Data: 
-![CRF](/CRF.png)
+![Example from CRF](/CRF.png)
 
-![Code list](/codelist.png)
+![Example from Code list](/codelist.png)
 
-![Data Dictionary](/data dictionary.png)
+![Example from Data Dictionary](/data_dictionary.png)
 
-![Data](/Data set.png)
+![Example from Data](/Data_set.png)
 
 ### Shoe #1 - CRF
   -Read CRF
   -Put into Data Frame to do cool stuff
-  Like:
-    Generate Word Count
-    MESH
     1. headers in data - variable names to questions
-    2. fun stuff like text analysis, mesh terms
+    2. other fun stuff like text analysis, mesh terms
     
 ### Shoe #2 - Variable Cleanup
 ### Shoe #3 - Generate Stats Charts
