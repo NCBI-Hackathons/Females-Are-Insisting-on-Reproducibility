@@ -95,7 +95,7 @@ loaded via a namespace (and not attached):
     1. headers in data - variable names to questions
     2. other fun stuff like text analysis, mesh terms
     
-    [Shoe #1 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/CRFPDF2PyDF.ipynb)
+[Shoe #1 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/CRFPDF2PyDF.ipynb)
     
 ### Shoe #2 - Variable Cleanup
 [Shoe 2 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/shoe2_variable_cleanup.ipynb)
