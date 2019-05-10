@@ -63,13 +63,13 @@ Data is available on controlled access basis. Required to sign a user agreement 
 * Jupiter Notebook
 
 ### Input Data: 
-![Example from CRF](/CRF.png)
+![Example from CRF](/CRF.PNG)
 
-![Example from Code list](/codelist.png)
+![Example from Code list](/codelist.PNG)
 
-![Example from Data Dictionary](/data_dictionary.png)
+![Example from Data Dictionary](/data_dictionary.PNG)
 
-![Example from Data](/Data_set.png)
+![Example from Data](/Data_set.PNG)
 
 ### Shoe #1 - CRF
   -Read CRF
