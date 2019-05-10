@@ -54,7 +54,7 @@ Data is available on controlled access basis. Required to sign a user agreement 
 
 [Mid-way Lightning Talk](https://docs.google.com/presentation/d/1HCeoqp5jsKcanOoGPzKoNtMGqlKLhIXQKGbLvbgXUYs/edit?usp=sharing)
 
-[Final Presentation]
+[Final Presentation](https://docs.google.com/presentation/d/1dlgrzFMP573hJUUUps7YIly7bkEGZtjWw_PvPYS3jLU/edit?usp=sharing)
 
 ### Dependencies:
 * R
