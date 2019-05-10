@@ -103,7 +103,7 @@ loaded via a namespace (and not attached):
 ![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
 
 ### Shoe #3 - Generate Stats Charts
--- Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP
+-- Automated Keyword Extraction from multiple Case Report Form (CRF) PDF files using Natural Language Processing (NLP)
 [Shoe #3 notebook](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Automated%20Keyword%20Extraction%20from%20CRF%20using%20NLP.ipynb)
   
 ###
