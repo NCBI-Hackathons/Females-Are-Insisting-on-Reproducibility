@@ -78,6 +78,8 @@ Data is available on controlled access basis. Required to sign a user agreement 
     2. other fun stuff like text analysis, mesh terms
     
 ### Shoe #2 - Variable Cleanup
+![Example of Cleanup Stats grahp](/LasikGLCLCLSEScl.png)
+
 ### Shoe #3 - Generate Stats Charts
   
 ###
