@@ -70,11 +70,11 @@ other attached packages:
 * Jupiter Notebook
 
 ### Input Data: 
-![Example from CRF](/CRF.PNG)
+[Example from CRF](/CRF.PNG)
 
-![Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
+[Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
 
-![Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
+!Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
 
 ### Shoe #1 - Sneakers - CRF
   -Reading Case Report Form (CRF) PDF to python Data Frame for Text Mining
