@@ -9,7 +9,7 @@ Kerry Goetz (kerry.goetz@nih.gov, kgoetz2@masonlive.gmu.edu)
 
 Dina Mikdadi
 
-Divya Palaniswamy
+Divya Palaniswamy (divyaswamy87@gmail.com)
 
 Yajing Song
 
@@ -36,14 +36,15 @@ Data is available on controlled access basis. Required to sign a user agreement 
 
 ## Goals
 ### Target: 
-  1. Extract schema from the data sets
-  2. Capture inventories of the files in the directories
-  * Bagit and Pandas as tools
-  * How many variables and missing values are in each file
-### Stretch: 
   1. Pulling data from CRFs and PDFs as a structured data format 
-  2. Associate the variables with the descriptions 
-  3. Validate the variables against the data dictionary and report the record that does not find a match
+  2. Use the Sturtured data to peform Keyword Extraction using Natural Language Processing (NLP)
+  2. Extract schema from the data sets in CSV files
+  3. Capture inventories of the files in the directories
+    * Bagit and Pandas as tools
+    * How many variables and missing values are in each file
+### Stretch: 
+  1. Associate the variables with the descriptions 
+  2. Validate the variables against the data dictionary and report the record that does not find a match
   
 ## Workflow  
 
@@ -71,13 +72,13 @@ other attached packages:
 
 ### Input Data: 
 ### Example from CRF
-![Example from CRF](/CRF.PNG)
+[Example from CRF](/CRF.PNG)
 
 ### Example from Data Dictionary
-![Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
+[Example from Data Dictionary](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/code%20list.PNG)
 
 ### Example from Data
-![Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
+[Example from Data](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/Data%20set.PNG)
 
 ### Shoe #1 - Sneakers - CRF
   * Reading Case Report Form (CRF) PDF to python Data Frame for Text Mining
