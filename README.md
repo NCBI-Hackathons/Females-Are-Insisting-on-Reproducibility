@@ -48,7 +48,7 @@ Data is available on controlled access basis. Required to sign a user agreement 
   
 ## Workflow  
 
-![alt text](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/workflow_updated.pdf)
+![alt text](https://github.com/NCBI-Hackathons/Females-Are-Insisting-on-Reproducibility-/blob/master/workflow.png)
 
 ## Presentations
 [Project Concept](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
