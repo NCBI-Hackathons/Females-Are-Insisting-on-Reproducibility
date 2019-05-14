@@ -48,7 +48,7 @@ Data is available on controlled access basis. Required to sign a user agreement 
   
 ## Workflow  
 
-![alt text](/workflow.png)
+![alt text](/workflow_updated.pdf)
 
 ## Presentations
 [Project Concept](https://docs.google.com/document/d/1TnwnpWZsiipe2CH5zI_E20LvC_MvSOaQ_qIA1LlxgjM/edit?usp=sharing)
